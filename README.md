@@ -3,6 +3,7 @@
 This is my first gin/go project following a tutorial from the go.dev website. This is a RESTful API with go and gin. This is an API server with two endpoints containing a local repository of data about vintage jazz records.
 
 https://go.dev/doc/tutorial/web-service-gin
+
 ![web-service-gin-pic](https://github.com/user-attachments/assets/933b0d2b-b066-49bc-a952-43b4cf84b8fc)
 
 <br>
